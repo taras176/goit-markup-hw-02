@@ -1,0 +1,25 @@
+.navigation:hover  {
+     color: #4D5AE5;
+     
+}
+.body {
+     color: #434455;
+     font-family: 'Roboto, sans-serif';
+     font-size: 16px;
+    line-height: 124%;
+}
+.h1 {
+     font-weight: 700;
+     font-size: 56px;
+     line-height: 107%;
+}
+.h2 {
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 111%;
+}
+.h3 {
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 120%;
+}
