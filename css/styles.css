@@ -21,7 +21,9 @@
        line-height: 111%;
 }
 .h3 {
-     font-weight: 500;
+     color: #2E2F42;
+       letter-spacing: 0.02em;
+       font-weight: 500;
        font-size: 20px;
        line-height: 120%;
 }
@@ -92,4 +94,11 @@
         letter-spacing: 0.02em;
         text-align: center;
         text-transform: capitalize
+}
+.p2{
+     font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
+            
 }
