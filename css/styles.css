@@ -106,7 +106,7 @@
             letter-spacing: 0.02em;
             color: #434455
 }
-.navigation-s {
+.navigation-s{
      font-weight: 500;
      line-height: 1.5;
      letter-spacing: 0.02em;
@@ -153,6 +153,13 @@
           letter-spacing: 0.02em;
           color: #2E2F42;
      }
-
-
+.navigation-s:hover
+.navigation-s:focus{
+     color: #404bbf;
+}
+.button:hover
+.button:focus {
+     background-color: #404bbf;
+     color: #FFFFFF;
+}
 
