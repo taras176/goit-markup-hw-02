@@ -10,7 +10,8 @@
        line-height: 124%;
 }
 .h1 {
-     font-weight: 700;
+     letter-spacing: 0.02em;
+       font-weight: 700;
        font-size: 56px;
        line-height: 107%;
 }
@@ -25,9 +26,15 @@
        line-height: 120%;
 }
 .button {
-     background: #4D5AE5;
+     font-family: "Roboto", sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+       line-height: 1.5;
+       letter-spacing: 0.04em;
+       background: #4D5AE5;
        color: #FFFFFF;
        cursor: pointer;
+
 }
 .logo {
      color: #4d5ae5;
@@ -76,4 +83,13 @@
 }
 .span2 {
      color: #f4f4fd;
+}
+.h2p {
+     color: #2e2f42;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize
 }
