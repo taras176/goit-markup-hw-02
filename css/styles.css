@@ -9,7 +9,7 @@
        font-size: 16px;
        line-height: 124%;
 }
-.h1 {
+.title {
      letter-spacing: 0.02em;
        font-weight: 700;
        font-size: 56px;
@@ -64,7 +64,7 @@
 .section-team {
      background: #F4F4FD;
 }
-.section-h1 {
+.section-h {
      background-color: #2E2F42;
           color: #FFFFFF;
           text-align: center;
@@ -120,4 +120,22 @@
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: #434455;
+}
+.services{
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 120%;
+     text-align: center;
+     letter-spacing: 0.02em;
+     color: #2E2F42;
+}
+.text-sevices{
+     font-size: 16px;
+          line-height: 1.5;
+          letter-spacing: 0.02em;
+          color: #434455
+}
+.li-taem {
+     background-color: #FFFFFF;
+     
 }
