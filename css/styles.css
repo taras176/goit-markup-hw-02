@@ -153,13 +153,15 @@
           letter-spacing: 0.02em;
           color: #2E2F42;
      }
-.navigation-s:hover
-.navigation-s:focus{
+.button:hover {
+     background-color: #404bbf;
+}
+.navigation-s:hover {
      color: #404bbf;
 }
-.button:hover
 .button:focus {
      background-color: #404bbf;
-     color: #FFFFFF;
 }
-
+.navigation-s:focus {
+     color: #404bbf;
+}
